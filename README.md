@@ -26,7 +26,10 @@ Using Beautiful Soup, we extracted data from the Glassdoor Website. We used libr
 
  
 **Exploratory Data Analysis**
-Average salaries distribution throughout US states
+
+
+
+**Average salaries distribution throughout US states**
  
 ![image](https://user-images.githubusercontent.com/122759737/214109222-6cea4f5c-f1da-46ee-a853-2b83c116c711.png)
 
